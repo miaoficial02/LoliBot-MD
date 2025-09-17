@@ -1,5 +1,3 @@
----
-
 ## 🔰 Instalación por Termux
 
 [![Tutorial](https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/O_j2q5xCg3A)
@@ -51,4 +49,3 @@ npm start
 </p>
 
 ---
-
